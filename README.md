@@ -25,16 +25,15 @@ Puedes encontrar un ejemplo de configuración en el archivo `.env.example`.
     ```bash
     npm install
     ```
-4. Compilar Assets::
+4. Compilar Assets:
     ```bash
     npm run dev
-
     ```
 ## Ejecutar el Proyecto
 
 Para ejecutar el proyecto en un entorno local, utiliza el siguiente comando:
     ```bash
-    npm run dev
+    php artisan serve
     ```
-    
+
 El proyecto estará disponible en `http://localhost:8000`.
