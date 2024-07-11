@@ -32,7 +32,7 @@ Puedes encontrar un ejemplo de configuración en el archivo `.env.example`.
 ## Ejecutar el Proyecto
 
 Para ejecutar el proyecto en un entorno local, utiliza el siguiente comando:
-    ```bash
+    ```
     php artisan serve
     ```
 
